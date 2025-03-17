@@ -1,4 +1,4 @@
-# ESP32 Weather API Project  
+# ESP32 Weather API 
 
 ## Overview  
 This project fetches real-time weather data from an API and controls an LED based on rainfall. It is designed to run on an ESP32 microcontroller and can be tested using Wokwi, an online ESP32 simulator.  
